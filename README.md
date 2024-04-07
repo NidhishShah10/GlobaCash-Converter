@@ -14,7 +14,7 @@ This JavaFX application provides a user-friendly interface for converting curren
 
 1) Obtain an API key from a reliable currency exchange rate API provider.
 
-2) Replace the "API key" and "Request Link" in the convert and getExchangeRate methods of written code with your actual API key and request link.
+2) Replace the "API key" and "Request Link" in the convert and getExchangeRate methods of written code with your personalised API key and request link.
 
 3) Compile and run the application.
 
