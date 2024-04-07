@@ -1,4 +1,4 @@
-# CurrencyConverter
+# Currency Converter
 
 ## Overview
 
