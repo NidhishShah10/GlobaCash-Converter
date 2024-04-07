@@ -1,7 +1,5 @@
 # Currency Converter
 
-## Overview
-
 This JavaFX application provides a user-friendly interface for converting currencies using live exchange rates from an external API.
 
 ## Key Features
