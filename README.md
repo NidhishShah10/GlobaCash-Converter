@@ -1,4 +1,4 @@
-# Currency Converter
+# GlobaCash Converter
 
 This JavaFX application provides a user-friendly interface for converting currencies using live exchange rates from an external API.
 
