@@ -1,6 +1,6 @@
 # GlobaCash Converter
 
-## Team: A&N
+## Team: ANZ
 
 ### Team Members:
 - Ali Jaffer
