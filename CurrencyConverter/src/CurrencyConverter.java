@@ -20,7 +20,7 @@ public class CurrencyConverter {
 
     public static void convert(ComboBox<String> fromCurrency, ComboBox<String> toCurrency, TextField amountField, TextField resultField) {
 
-        String apiKey = "API key"; // Add you API key here
+        String apiKey = "API key"; // Add your API key here (not added from our side because of security/privacy concerns)
         String from = fromCurrency.getValue();
         String to = toCurrency.getValue();
         String amount = amountField.getText().trim();
@@ -43,7 +43,7 @@ public class CurrencyConverter {
     }
 
     private static double getExchangeRate(String from, String to, String apiKey) throws IOException, URISyntaxException, InterruptedException {
-        String urlString = String.format("Request Link", apiKey, from); //Add your request link here
+        String urlString = String.format("Request Link", apiKey, from); //Add your request link here (not added from our side because of security/privacy concerns)
         HttpClient httpClient = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(new URI(urlString))
