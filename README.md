@@ -33,8 +33,6 @@ The motivation behind GlobaCash Converter is to alleviate the confusion surround
 
 5) Enter the amount to convert.
 
-6) Click the "Convert" button (or equivalent).
-
 ## Working of GUI elements 
 
 1. Two combo boxes for selecting currencies.
